@@ -12,13 +12,16 @@ This project is a modern, responsive website inspired by Apple's design aestheti
 
 ## UI Presentation
 ### Hero Section
-![Alt Text](https://drive.google.com/drive/folders/16v514arsj2PATIb7lJeizv0iUwav6MAc)
+![Hero Section](https://github.com/WindZZzzZZzz/iphone-website/blob/master/demos/assets/hero.gif)
 
 ### Highlights Section
+![Highlights Section](https://github.com/WindZZzzZZzz/iphone-website/blob/master/demos/assets/highlights.gif)
 
 ### 3D Model Section
+![3D Model Section](https://github.com/WindZZzzZZzz/iphone-website/blob/master/demos/assets/3d_model.gif)
 
 ### Details Section
+![Detail Section](https://github.com/WindZZzzZZzz/iphone-website/blob/master/demos/assets/details.gif)
 
 
 

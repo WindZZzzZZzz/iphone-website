@@ -1,12 +1,63 @@
-# React + Vite
+# Apple-Inspired Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a modern, responsive website inspired by Apple's design aesthetics. It showcases features, models, and highlights of a product (e.g., iPhone) using React, Tailwind CSS, and Three.js.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Design**: Fully responsive layout for all screen sizes.
+- **3D Models**: Interactive 3D product models using React Three Fiber.
+- **Animations**: Smooth animations powered by GSAP.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **Reusable Components**: Modular and reusable React components.
 
-## Expanding the ESLint configuration
+## UI Presentation
+### Hero Section
+![Alt Text](https://drive.google.com/drive/folders/16v514arsj2PATIb7lJeizv0iUwav6MAc)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Highlights Section
+
+### 3D Model Section
+
+### Details Section
+
+
+
+## Tech Stack
+
+- **React**: Frontend library for building user interfaces.
+- **Tailwind CSS**: For styling and responsive design.
+- **Three.js & React Three Fiber**: For 3D model rendering.
+- **GSAP**: For animations and transitions.
+- **Vite**: Lightning-fast development environment.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/apple-inspired-website.git
+   cd apple-inspired-website
+   ```
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Start the development server:
+    ```bash
+    npm run dev
+    ```
+
+## Project Structure
+```bash
+src/
+├── components/         # Reusable React components
+│   ├── Navbar.jsx      # Navigation bar
+│   ├── Hero.jsx        # Hero section
+│   ├── Highlights.jsx  # Product highlights
+│   ├── Model.jsx       # 3D model viewer
+│   ├── Features.jsx    # Features section
+│   ├── Footer.jsx      # Footer section
+├── constants/          # Static data and constants
+├── utils/              # Utility functions and assets
+├── index.css           # Global styles (Tailwind v4)
+├── App.jsx             # Main application component
+```

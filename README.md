@@ -23,8 +23,6 @@ This project is a modern, responsive website inspired by Apple's design aestheti
 ### Details Section
 ![Detail Section](https://github.com/WindZZzzZZzz/iphone-website/blob/master/demos/assets/details.gif)
 
-
-
 ## Tech Stack
 
 - **React**: Frontend library for building user interfaces.
@@ -64,3 +62,10 @@ src/
 ├── index.css           # Global styles (Tailwind v4)
 ├── App.jsx             # Main application component
 ```
+
+## Reference
+
+- **Tailwind CSS Tutorial**: [Tailwind CSS Documentation](https://tailwindcss.com/docs/installation)
+- **GSAP Tutorial**: [GSAP Getting Started Guide](https://greensock.com/get-started/)
+- **Three.js Tutorial**: [Three.js Fundamentals](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+- **Video Tutorial**: [YouTube Playlist](https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
